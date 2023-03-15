@@ -10,10 +10,6 @@
   <lastmod>2023-03-09T01:46:00Z</lastmod>
  </url>
  <url>
-  <loc>https://elthomate.com/2012/</loc>
-  <lastmod>2023-03-09T01:41:00Z</lastmod>
- </url>
- <url>
   <loc>https://elthomate.com/2023/</loc>
   <lastmod>2023-03-09T01:46:00Z</lastmod>
  </url>
@@ -22,40 +18,8 @@
   <lastmod>2023-03-15T00:44:00Z</lastmod>
  </url>
  <url>
-  <loc>https://elthomate.com/authors/</loc>
-  <lastmod>2023-03-09T01:46:00Z</lastmod>
- </url>
- <url>
-  <loc>https://elthomate.com/authors/roberto-alsina/</loc>
-  <lastmod>2023-03-09T01:46:00Z</lastmod>
- </url>
- <url>
-  <loc>https://elthomate.com/authors/thomas-rife/</loc>
-  <lastmod>2023-03-09T01:46:00Z</lastmod>
- </url>
- <url>
   <loc>https://elthomate.com/categories/</loc>
-  <lastmod>2023-03-09T01:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://elthomate.com/categories/blog/</loc>
-  <lastmod>2023-03-09T01:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://elthomate.com/categories/cat_nikola/</loc>
-  <lastmod>2023-03-09T01:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://elthomate.com/categories/demo/</loc>
-  <lastmod>2023-03-09T01:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://elthomate.com/categories/nikola/</loc>
-  <lastmod>2023-03-09T01:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://elthomate.com/categories/python/</loc>
-  <lastmod>2023-03-09T01:41:00Z</lastmod>
+  <lastmod>2023-03-15T00:52:00Z</lastmod>
  </url>
  <url>
   <loc>https://elthomate.com/galleries/</loc>
@@ -144,9 +108,5 @@
  <url>
   <loc>https://elthomate.com/posts/simple-composicion-2/</loc>
   <lastmod>2023-03-15T00:41:00Z</lastmod>
- </url>
- <url>
-  <loc>https://elthomate.com/posts/welcome-to-nikola/</loc>
-  <lastmod>2023-03-09T01:41:00Z</lastmod>
  </url>
 </urlset>
