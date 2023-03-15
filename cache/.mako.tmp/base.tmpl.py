@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1678841645.7867546
+_modified_time = 1678842042.5062885
 _enable_loop = True
 _template_filename = 'themes/hack/templates/base.tmpl'
 _template_uri = 'base.tmpl'
@@ -37,69 +37,69 @@ def render_body(context,**pageargs):
         _mako_get_namespace(context, 'base')._populate(_import_ns, ['*'])
         _mako_get_namespace(context, 'header')._populate(_import_ns, ['*'])
         _mako_get_namespace(context, 'footer')._populate(_import_ns, ['*'])
-        set_locale = _import_ns.get('set_locale', context.get('set_locale', UNDEFINED))
+        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
+        base = _mako_get_namespace(context, 'base')
         def content():
             return render_content(context._locals(__M_locals))
-        HACK_VARIANT = _import_ns.get('HACK_VARIANT', context.get('HACK_VARIANT', UNDEFINED))
-        def extra_head():
-            return render_extra_head(context._locals(__M_locals))
-        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
-        lang = _import_ns.get('lang', context.get('lang', UNDEFINED))
-        footer = _mako_get_namespace(context, 'footer')
         def extra_js():
             return render_extra_js(context._locals(__M_locals))
+        def extra_head():
+            return render_extra_head(context._locals(__M_locals))
         body_end = _import_ns.get('body_end', context.get('body_end', UNDEFINED))
         header = _mako_get_namespace(context, 'header')
-        base = _mako_get_namespace(context, 'base')
+        HACK_VARIANT = _import_ns.get('HACK_VARIANT', context.get('HACK_VARIANT', UNDEFINED))
+        set_locale = _import_ns.get('set_locale', context.get('set_locale', UNDEFINED))
         template_hooks = _import_ns.get('template_hooks', context.get('template_hooks', UNDEFINED))
+        messages = _import_ns.get('messages', context.get('messages', UNDEFINED))
+        footer = _mako_get_namespace(context, 'footer')
         __M_writer = context.writer()
-        __M_writer('\n')
-        __M_writer('\n')
-        __M_writer('\n')
+        __M_writer('\r\n')
+        __M_writer('\r\n')
+        __M_writer('\r\n')
         __M_writer(str(set_locale(lang)))
-        __M_writer('\n')
+        __M_writer('\r\n')
         __M_writer(str(base.html_headstart()))
-        __M_writer('\n')
+        __M_writer('\r\n')
         if 'parent' not in context._data or not hasattr(context._data['parent'], 'extra_head'):
             context['self'].extra_head(**pageargs)
         
 
-        __M_writer('\n')
+        __M_writer('\r\n')
         __M_writer(str(template_hooks['extra_head']()))
-        __M_writer('\n</head>\n')
+        __M_writer('\r\n</head>\r\n')
         if not HACK_VARIANT:
-            __M_writer('    <body class="hack">\n')
+            __M_writer('    <body class="hack">\r\n')
         elif HACK_VARIANT == 'dark':
-            __M_writer('    <body class="hack dark">\n')
+            __M_writer('    <body class="hack dark">\r\n')
         elif HACK_VARIANT == 'dark-grey':
-            __M_writer('    <body class="hack dark-grey">\n')
+            __M_writer('    <body class="hack dark-grey">\r\n')
         elif HACK_VARIANT == 'solarized-dark':
-            __M_writer('    <body class="hack solarized-dark">\n')
+            __M_writer('    <body class="hack solarized-dark">\r\n')
         elif HACK_VARIANT == 'standard':
-            __M_writer('    <body class="hack standard">\n')
-        __M_writer('\n<a href="#content" class="sr-only sr-only-focusable">')
+            __M_writer('    <body class="hack standard">\r\n')
+        __M_writer('\r\n<a href="#content" class="sr-only sr-only-focusable">')
         __M_writer(str(messages("Skip to main content")))
-        __M_writer('</a>\n    <div id="container">\n         ')
+        __M_writer('</a>\r\n    <div id="container">\r\n         ')
         __M_writer(str(header.html_header()))
-        __M_writer('\n         <main id="content">\n            ')
+        __M_writer('\r\n         <main id="content">\r\n            ')
         if 'parent' not in context._data or not hasattr(context._data['parent'], 'content'):
             context['self'].content(**pageargs)
         
 
-        __M_writer('\n         </main>\n         ')
+        __M_writer('\r\n         </main>\r\n         ')
         __M_writer(str(footer.html_footer()))
-        __M_writer('\n    </div>\n    ')
+        __M_writer('\r\n    </div>\r\n    ')
         __M_writer(str(base.late_load_js()))
-        __M_writer('\n    ')
+        __M_writer('\r\n    ')
         if 'parent' not in context._data or not hasattr(context._data['parent'], 'extra_js'):
             context['self'].extra_js(**pageargs)
         
 
-        __M_writer('\n    ')
+        __M_writer('\r\n    ')
         __M_writer(str(body_end))
-        __M_writer('\n    ')
+        __M_writer('\r\n    ')
         __M_writer(str(template_hooks['body_end']()))
-        __M_writer('\n</body>\n</html>\n')
+        __M_writer('\r\n</body>\r\n</html>\r\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
@@ -115,7 +115,7 @@ def render_extra_head(context,**pageargs):
         def extra_head():
             return render_extra_head(context)
         __M_writer = context.writer()
-        __M_writer('\n')
+        __M_writer('\r\n')
         return ''
     finally:
         context.caller_stack._pop_frame()
