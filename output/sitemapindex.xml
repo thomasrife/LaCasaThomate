@@ -7,11 +7,11 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
   <loc>https://elthomate.com/galleries/demo/rss.xml</loc>
-  <lastmod>2023-03-20T19:09:00Z</lastmod>
+  <lastmod>2023-03-20T20:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://elthomate.com/galleries/rss.xml</loc>
-  <lastmod>2023-03-20T19:09:00Z</lastmod>
+  <lastmod>2023-03-20T20:24:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://elthomate.com/rss.xml</loc>
@@ -19,6 +19,6 @@
  </sitemap>
  <sitemap>
   <loc>https://elthomate.com/sitemap.xml</loc>
-  <lastmod>2023-03-20T19:09:00Z</lastmod>
+  <lastmod>2023-03-20T20:24:00Z</lastmod>
  </sitemap>
 </sitemapindex>
