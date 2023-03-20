@@ -7,4 +7,4 @@
 .. description: 
 .. type: text
 
-Hi, i'm Thomas. I am a Buenos Aires based writer, journalist, NFT artist, self-thaugh python entushiast developer and, like the rest of argentinians, a World Cup Champion. 
+Hi, i'm Thomas. I am a Buenos Aires based writer, journalist, NFT artist, self-thaugh python entushiast developer and, like the rest of argentinians, a World Cup Champion ⭐⭐⭐. 
