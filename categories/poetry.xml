@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thomate's House</title><link>https://elthomate.com/</link><description>Blog en Nikola</description><atom:link href="https://elthomate.com/rss.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:thomi.rife@gmail.com"&gt;Thomas Rife&lt;/a&gt; </copyright><lastBuildDate>Tue, 21 Mar 2023 01:26:32 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Living Alone (a poem)*</title><link>https://elthomate.com/posts/living-alone-a-poem/</link><dc:creator>Thomas Rife</dc:creator><description>&lt;img alt="by el thomate" src="https://elthomate.com/images/living_alone.jpg"&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Thomate's House (Posts about poetry)</title><link>https://elthomate.com/</link><description></description><atom:link href="https://elthomate.com/categories/poetry.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2023 &lt;a href="mailto:thomi.rife@gmail.com"&gt;Thomas Rife&lt;/a&gt; </copyright><lastBuildDate>Tue, 21 Mar 2023 01:25:33 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Living Alone (a poem)*</title><link>https://elthomate.com/posts/living-alone-a-poem/</link><dc:creator>Thomas Rife</dc:creator><description>&lt;img alt="by el thomate" src="https://elthomate.com/images/living_alone.jpg"&gt;
 &lt;div class="line-block"&gt;
 &lt;div class="line"&gt;&lt;br&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;br&gt;&lt;/div&gt;
@@ -56,15 +56,4 @@
 &lt;div class="line"&gt;&lt;br&gt;&lt;/div&gt;
 &lt;div class="line"&gt;&lt;br&gt;&lt;/div&gt;
 &lt;div class="line"&gt;*&lt;em&gt;translated from original in spanish by Chat-GTP with the style of Wallace Stevens and Charles Bukowski.&lt;/em&gt;&lt;/div&gt;
-&lt;/div&gt;</description><category>poetry</category><guid>https://elthomate.com/posts/living-alone-a-poem/</guid><pubDate>Tue, 21 Mar 2023 01:14:38 GMT</pubDate></item><item><title>The House of The Thomate</title><link>https://elthomate.com/posts/la-casa-del-thomate/</link><dc:creator>Thomas Rife</dc:creator><description>&lt;img alt="Nikola Tesla" src="https://elthomate.com/images/thomate_blog.jpg"&gt;
-&lt;div class="line-block"&gt;
-&lt;div class="line"&gt;Herein dwells the thomate 🍅&lt;/div&gt;
-&lt;div class="line"&gt;Herein writes&lt;/div&gt;
-&lt;div class="line"&gt;Herein dies&lt;/div&gt;
-&lt;div class="line"&gt;Herein wilts&lt;/div&gt;
-&lt;div class="line"&gt;&lt;br&gt;&lt;/div&gt;
-&lt;div class="line"&gt;He formed his environment&lt;/div&gt;
-&lt;div class="line"&gt;In it he expires&lt;/div&gt;
-&lt;div class="line"&gt;&lt;br&gt;&lt;/div&gt;
-&lt;div class="line"&gt;End////&lt;/div&gt;
-&lt;/div&gt;</description><guid>https://elthomate.com/posts/la-casa-del-thomate/</guid><pubDate>Thu, 09 Mar 2023 01:45:14 GMT</pubDate></item></channel></rss>
+&lt;/div&gt;</description><category>poetry</category><guid>https://elthomate.com/posts/living-alone-a-poem/</guid><pubDate>Tue, 21 Mar 2023 01:14:38 GMT</pubDate></item></channel></rss>

@@ -9,9 +9,9 @@
 
 Welcome to my blog! My name is Thomas Rifé and I'm a writer, journalist, NFT artist and Python enthusiast developer based in Buenos Aires, Argentina. I love exploring the intersection between art, history and technology; and I'm constantly seeking new ways to push creative boundaries.
 
-In 2022, I published my first book, 'Navidad en Japón', which was printed by *Ediciones Paco*. The book is a collection of essays that delve into the changes that occurred during the hard pass from the 20th century to the new millennium, focusing on art, history and technology. It was an incredibly rewarding experience to write this book, and I hope to continue exploring these themes in my future work.
+In 2022, I published my first book, `'Navidad en Japón' <https://www.goodreads.com/book/show/62675781-navidad-en-jap-n>`_, which was printed by *Ediciones Paco*. The book is a collection of essays that delve into the changes that occurred during the hard pass from the 20th century to the new millennium, focusing on art, history and technology. It was an incredibly rewarding experience to write this book, and I hope to continue exploring these themes in my future work.
 
-When I'm not writing, I'm creating NFT art that combines old maps and encyclopedias into intricate collages that tell their own stories. I'm always fascinated by the way that art can capture a moment in time, and my NFTs are my attempt to freeze that moment and make it timeless.
+When I'm not writing, I'm creating `NFT art <https://exchange.art/elthomate/nfts>`_ that combines old maps and encyclopedias into intricate collages that tell their own stories. I'm always fascinated by the way that art can capture a moment in time, and my NFTs are my attempt to freeze that moment and make it timeless.
 
 In addition to my creative pursuits, I also work in a Natural Language Processing company that brings solutions for monitoring social media and customer experience. I love working with Python and using it to solve complex problems; and it's a privilege to be able to apply these skills in a way that helps others.
 

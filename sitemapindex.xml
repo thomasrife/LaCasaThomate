@@ -6,6 +6,10 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
+  <loc>https://elthomate.com/categories/poetry.xml</loc>
+  <lastmod>2023-03-21T01:21:00Z</lastmod>
+ </sitemap>
+ <sitemap>
   <loc>https://elthomate.com/galleries/demo/rss.xml</loc>
   <lastmod>2023-03-20T20:51:00Z</lastmod>
  </sitemap>
@@ -15,10 +19,10 @@
  </sitemap>
  <sitemap>
   <loc>https://elthomate.com/rss.xml</loc>
-  <lastmod>2023-03-21T01:08:00Z</lastmod>
+  <lastmod>2023-03-21T01:21:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://elthomate.com/sitemap.xml</loc>
-  <lastmod>2023-03-21T01:08:00Z</lastmod>
+  <lastmod>2023-03-21T01:21:00Z</lastmod>
  </sitemap>
 </sitemapindex>

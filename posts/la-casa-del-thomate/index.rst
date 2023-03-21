@@ -12,16 +12,11 @@
     :alt: Nikola Tesla
 
 | Herein dwells the thomate 🍅
-|
 | Herein writes
-|
 | Herein dies
-|
 | Herein wilts
 |
 | He formed his environment
-|
 | In it he expires
-|
 |
 | End////
