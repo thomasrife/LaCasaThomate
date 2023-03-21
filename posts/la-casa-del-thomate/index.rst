@@ -1,4 +1,4 @@
-.. title: la casa del thomate
+.. title: The House of The Thomate
 .. slug: la-casa-del-thomate
 .. date: 2023-03-08 22:45:14 UTC-03:00
 .. tags: 
@@ -11,13 +11,17 @@
 .. image:: /images/thomate_blog.jpg
     :alt: Nikola Tesla
 
-acá vive el thomate
-
-acá nace
-
-el creó su propio entorno
-
-en él se extinge
-
-
-fin///
+| Herein dwells the thomate 🍅
+|
+| Herein writes
+|
+| Herein dies
+|
+| Herein wilts
+|
+| He formed his environment
+|
+| In it he expires
+|
+|
+| End////
