@@ -17,7 +17,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Thomas Rife"  # (translatable)
-BLOG_TITLE = "La casa del Thomate"  # (translatable)
+BLOG_TITLE = "Thomate's House"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
 SITE_URL = "https://elthomate.com/"
@@ -25,7 +25,7 @@ SITE_URL = "https://elthomate.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://elthomate.com/"
 BLOG_EMAIL = "thomi.rife@gmail.com"
-BLOG_DESCRIPTION = "Primer acercamiento a Nikola"  # (translatable)
+BLOG_DESCRIPTION = "Blog en Nikola"  # (translatable)
 
 # Nikola is multilingual!
 #
